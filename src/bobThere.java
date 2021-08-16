@@ -9,6 +9,7 @@ public class bobThere {
             String temp=str.substring(i,i+3);
                 if (temp.charAt(0) == 'b' && temp.charAt(2) == 'b') {
                     System.out.println("bob present");
+                    System.out.println("Akansha Rai");
                 }
         }
 
